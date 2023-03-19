@@ -8,7 +8,7 @@ public class hesap{
 
         System.out.println("Lutfen kare ya da dikdortgen seciniz:");
         String sekil = input.nextLine();
-
+        int x=5;
         if (sekil==("kare")) {
             System.out.println("Kare alanini mi cevresini mi hesaplamak istersiniz?");
             String hesap = input.nextLine();
