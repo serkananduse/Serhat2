@@ -1,0 +1,5 @@
+out/
+.gitignore
+.idea
+Serhat2.iml
+git config --global user.email "fatser2701@example.com"
